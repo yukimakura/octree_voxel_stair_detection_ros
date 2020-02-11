@@ -1,5 +1,5 @@
 [package]
-name = "pcl_stair_detection_ros"
+name = "octree_voxel_stair_detection_ros"
 version = "0.1.0"
 authors = ["yukimakura <yukimakura86@gmail.com>"]
 edition = "2018"

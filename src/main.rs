@@ -35,8 +35,7 @@ fn main() {
         x0_pub_msgs.colors = x0_colors;
         x0_pub_msgs.scale.x = 3.0;
         x0_pub_msgs.scale.y = 3.0;
-        x0_pub_msgs.mesh_use_embedded_materials = true;
-        
+
         x0_pub.send(x0_pub_msgs).unwrap();
     }).unwrap();
 
